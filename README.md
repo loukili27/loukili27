@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi, I'm Hamza Loukili 👋</h1>
 <h3 align="center">
 AI Engineer / Data Scientist — open to Data Engineering (pipelines, data flows, Big Data, Cloud)
@@ -76,38 +77,62 @@ My primary goal is **AI Engineer / Data Scientist**, and I’m also open to **Da
 
 ## Big Data / Data Engineering mini-projects (hands-on labs)
 
-I’ve built mini-projects to practice core Data Engineering patterns (batch + streaming):
+I build side projects to practice Data Engineering patterns (batch + streaming):
 - **ETL/ELT pipelines**: ingest → validate → transform → load (schema checks + quality gates)
 - **data integration** from heterogeneous sources (structured + semi-structured)
 - **distributed processing patterns (Spark-style)**: joins, aggregations, partitioning strategies *(learning projects)*
 - **streaming fundamentals (Kafka-style)**: produce/consume, windowed aggregates, sinks *(learning projects)*
 - **Cloud & CI/CD**: containerized jobs/services + automated pipelines *(Azure DevOps; cloud fundamentals)*
 
-> I’m not claiming “5+ years Data Engineer”; I’m an AI/DS profile with real delivery experience and deliberate DE upskilling.
-
 ---
 
-## Skills (aligned with Data Engineer keywords)
+## Skills (full stack)
 
-**Programming**
-- Python, SQL, TypeScript/Node.js
+**Programming languages**
+- Python, SQL, R, JavaScript, TypeScript
 
-**Data Engineering**
-- Pipeline design, data flows, ingestion, integration, transformation
-- Data quality mindset: validation, metrics, reproducibility
-- Relational + NoSQL: PostgreSQL, MongoDB
+**Data & Databases**
+- PostgreSQL, MongoDB, SQLite, Oracle Live SQL
+- Data cleaning, feature engineering, data integration, validation/quality checks
 
-**Big Data (learning / hands-on labs)**
-- Spark / PySpark, Kafka, Hadoop ecosystem concepts *(learning projects)*
+**Machine Learning / Deep Learning**
+- scikit-learn
+- TensorFlow, PyTorch
+- CNN, LSTM (project work)
+- Model evaluation: precision/recall, threshold tuning, ablation testing
 
-**Cloud & DevOps**
-- Docker, Linux, Git
+**LLM / NLP**
+- RAG pipelines, LLM re-ranking, LLM-as-a-Judge evaluation
+- LangChain, LlamaIndex, Guardrails
+- Metrics: Precision@K / Recall@K, BERTScore
+
+**Data visualization / Apps**
+- Power BI
+- Streamlit, Plotly
+
+**Backend / APIs**
+- FastAPI
+- Node.js (TypeScript)
+
+**DevOps / Tooling**
+- Docker, Linux
+- Git
 - CI/CD: Azure DevOps
-- Cloud fundamentals: Azure/AWS/GCP concepts
+
+**Big Data / Cloud (learning projects)**
+- Spark / PySpark, Kafka
+- Azure / AWS / GCP fundamentals
+
+**Optimization / OR**
+- PSO (Vehicle Routing Problem), benchmarking & hyperparameter tuning
+
+**Math foundations**
+- Stochastic calculus, time series, signal processing
 
 **Ways of working**
-- Agile delivery, autonomy + teamwork
-- Communication, stakeholder alignment, problem-solving
+- Agile delivery
+- Strong communication, collaboration, stakeholder alignment
+- Autonomous + team-oriented problem solving
 
 ---
 
@@ -169,3 +194,4 @@ I’ve built mini-projects to practice core Data Engineering patterns (batch + s
 ###
 
 📫 Reach me: **loukili.hamza27@gmail.com**
+```
