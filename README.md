@@ -1,14 +1,13 @@
-```md
 <h1 align="center">Hi, I'm Hamza Loukili 👋</h1>
 <h3 align="center">
 AI Engineer / Data Scientist — open to Data Engineering (pipelines, data flows, Big Data, Cloud)
 </h3>
 
 <p align="center">
-  📍 Rennes, France •
+  📍 Rennes,Paris, France •
   <a href="mailto:loukili.hamza27@gmail.com">loukili.hamza27@gmail.com</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://www.linkedin.com/in/hamza-loukili/">LinkedIn</a> •
+
 </p>
 
 ---
@@ -194,4 +193,3 @@ I build side projects to practice Data Engineering patterns (batch + streaming):
 ###
 
 📫 Reach me: **loukili.hamza27@gmail.com**
-```
