@@ -5,7 +5,7 @@ AI Engineer / Data Scientist — open to Data Engineering (pipelines, data flows
 
 <p align="center">
   📍 Rennes,Paris, France •
-  <a href="mailto:loukili.hamza27@gmail.com">loukili.hamza27@gmail.com</a> •
+  <a href="mailto:hamza.loukili.data@gmail.com">loukili.hamza27@gmail.com</a> •
   <a href="https://www.linkedin.com/in/hamza-loukili/">LinkedIn</a> •
 
 </p>
